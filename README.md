@@ -15,7 +15,7 @@ This simple CMS application designed for a user to be able to view and interact 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Database Schema](#databaseschema)
+- [Database Schema](#database-schema)
 - [Contribution](#contribution)
 - [Questions](#questions)
 - [License](#license)
