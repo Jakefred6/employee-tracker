@@ -21,7 +21,7 @@ This simple CMS application designed for a user to be able to view and interact 
 - [License](#license)
 
 ## Demo
-- [employee-tracker.mkv](https://github.com/jakefred6/employee-tracker/demo/employee-tracker.mkv)
+- [employee-tracker.mkv](https://github.com/Jakefred6/employee-tracker/demo/employee-tracker.mkv)
 
 
 ## Installation
